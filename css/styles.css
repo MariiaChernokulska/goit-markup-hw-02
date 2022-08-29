@@ -135,7 +135,13 @@ span {
 /*footer*/
 .footer {
     background: #2F303A;
+    
 }
+.footer .link:hover,
+.footer .link:focus {
+    color: var(--accent-color);
+}
+
 .list-address-item .link {
     font-style: normal;
     font-weight: 400;
