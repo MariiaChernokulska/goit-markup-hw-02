@@ -5,6 +5,7 @@
 }
 body {
     font-family: 'Roboto', sans-serif;
+    color: var(--primary-text-color);
 }
 ul {
     list-style: none;
@@ -100,7 +101,6 @@ span {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-    color: var(--primary-text-color);
 }
 
 /*work*/
@@ -130,7 +130,6 @@ span {
     font-size: 16px;
     line-height: 1.19px;
     letter-spacing: 0.03em;
-    color: var(--primary-text-color);
 }
 /*footer*/
 .footer {
