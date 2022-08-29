@@ -2,6 +2,7 @@
     --primary-text-color: #757575;
     --title-text-color: #212121;
     --accent-color: #2196F3;
+    --primary-bg-color: #F5F5F5;
 }
 body {
     font-family: 'Roboto', sans-serif;
@@ -47,7 +48,7 @@ span {
     color: var(--accent-color);}
 /*main*/
 .main {
-    background: #F5F5F5;
+    background:var(--primary-bg-color);
 }
 /*hero*/
 .hero {
